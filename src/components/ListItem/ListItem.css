@@ -1,0 +1,15 @@
+.add_layer {
+  display: flex;
+  align-items: center;
+}
+
+.layer:hover {
+  background-color: #404da0;
+}
+
+.icon {
+  width: 60px;
+  border: none;
+  outline: none;
+  fill: #fff;
+}
